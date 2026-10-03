@@ -1,14 +1,14 @@
 <?php
 /**
  * Plugin Name: Morn Sitemap Plus
- * Plugin URI: https://github.com/mornrain/morn-sitemap-plus
+ * Plugin URI: https://github.com/mornrain-lin/morn-sitemap-plus
  * Description: 增强型站点地图插件。生成符合 sitemaps.org 0.9 规范的独立 XML 站点地图与子站图分片，支持 post/page/自定义文章类型/分类/标签/作者归档，包含 lastmod、changefreq、priority，提供图片站点地图与 Google News 站点地图扩展，支持 Last-Modified/ETag 与 304、robots.txt 追加、定时 ping。零外部资源。
  * Version: 1.0.0
  * Requires at least: 6.0
  * Requires PHP: 7.4
  * Tested up to: 6.6
  * Author: MornRain
- * Author URI: https://github.com/mornrain
+ * Author URI: https://github.com/mornrain-lin
  * License: MIT
  * License URI: https://opensource.org/licenses/MIT
  * Text Domain: morn-sitemap-plus
