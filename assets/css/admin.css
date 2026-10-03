@@ -1,0 +1,56 @@
+/**
+ * Morn Sitemap Plus 后台样式。
+ */
+
+.morn-sm-toolbar {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-between;
+	gap: 12px;
+	margin: 12px 0 20px;
+	padding: 14px 16px;
+	background: #fff;
+	border: 1px solid #c3c4c7;
+	border-radius: 4px;
+}
+
+.morn-sm-urls p {
+	margin: 0 0 4px;
+}
+
+.morn-sm-urls p:last-child {
+	margin-bottom: 0;
+}
+
+.morn-sm-urls code {
+	font-size: 12px;
+}
+
+.morn-sm-table {
+	margin-bottom: 24px;
+	max-width: 1000px;
+}
+
+.morn-sm-table code {
+	font-size: 12px;
+}
+
+.morn-sm-table .description {
+	display: block;
+	margin-top: 2px;
+	font-size: 12px;
+	color: #646970;
+}
+
+.morn-sm-checks label {
+	display: inline-block;
+	min-width: 140px;
+	margin: 2px 0;
+}
+
+.morn-sm-wrap textarea.code {
+	font-family: Consolas, Monaco, monospace;
+	font-size: 13px;
+	line-height: 1.6;
+}
